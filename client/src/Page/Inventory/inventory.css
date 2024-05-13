@@ -1,0 +1,30 @@
+#startDate,
+#endDate {
+  width: 10rem;
+}
+
+.inventory-prediction-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  box-shadow: 0px 1px 5px -1px rgba(0, 0, 0, 0.75);
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.inventory-prediction-inner {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.predictor-image {
+  flex: 2;
+}
+
+.predictor-image img {
+  width: 100%;
+}
+.predictor {
+  flex: 3;
+}

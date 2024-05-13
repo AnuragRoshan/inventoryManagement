@@ -1,0 +1,32 @@
+import React from "react";
+
+const TodayEmployee = () => {
+  return (
+    <div
+      className="dash-box"
+      style={{ display: "flex", flexDirection: "column" }}
+    >
+      <div className="sales-head">Todays</div>
+      <div className="total-sales">
+        <div className="sales">
+          <div className="sales-subhead">New Hire</div>
+          <div className="sales-cost"> 4 </div>
+        </div>
+        <div className="sales">
+          <div className="sales-subhead">Employee On Leave</div>
+          <div className="sales-cost"> 37</div>
+        </div>
+        <div className="sales">
+          <div className="sales-subhead">Employee Absent</div>
+          <div className="sales-cost"> 3</div>
+        </div>
+        <div className="sales" style={{ border: "none" }}>
+          <div className="sales-subhead">Profit</div>
+          <div className="sales-cost"> $5.23K</div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default TodayEmployee;

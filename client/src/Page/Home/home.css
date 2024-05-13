@@ -1,0 +1,174 @@
+.home-top {
+  margin-inline: 10%;
+  margin-block: 2%;
+}
+
+.home-head {
+  font-weight: bold;
+  font-size: 1.7rem;
+  width: max-content;
+  margin-block: 1rem;
+}
+.totals-sales {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.sales-section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 65%;
+}
+.sales-section-2 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.dash-box {
+  box-shadow: 0px 1px 5px -1px rgba(0, 0, 0, 0.75);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: white;
+  border: 1px solid #e0e0e0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.sales-head {
+  font-weight: bold;
+  font-size: 1.2rem;
+  width: max-content;
+}
+
+.sales-subhead {
+  font-size: 1rem;
+  color: #888888;
+  font-weight: bold;
+}
+.costs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+}
+
+.sales-cost {
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-block-start: 1.2rem;
+  color: #3811a3;
+}
+
+.percent-increase {
+  height: max-content;
+  padding: 0.4rem;
+  background-color: rgb(94, 255, 94);
+  color: black;
+  border-radius: 1rem;
+  font-weight: bold;
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-block-start: 1.2rem;
+}
+
+.sale-increase {
+  font-size: 1.2rem;
+  color: #242424;
+  font-weight: bold;
+}
+
+.prev-day {
+  color: #888888;
+  font-weight: bold;
+}
+.sales-data {
+  flex: 4;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.sales-graph {
+  flex: 3;
+}
+
+.tiny-graph {
+  flex: 3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.graph-big {
+  padding: 2rem;
+  /* box-shadow: 0px 1px 5px -1px rgba(0, 0, 0, 0.75); */
+  margin-top: 3rem;
+}
+
+.order-count-section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  width: 33%;
+}
+
+.fa-truck-fast {
+  color: black;
+  font-size: 4rem;
+}
+.orders {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.today-data {
+  margin-block-start: 5rem;
+  width: 100%;
+}
+
+.sales {
+  width: max-content;
+  text-align: center;
+  margin-block-start: 1rem;
+  padding: 1rem;
+  border-right: 1px solid grey;
+}
+
+.sales > .sales-subhead {
+  font-size: 1.5rem;
+}
+
+.total-sales {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.sales-cost-order {
+  font-size: 3.5rem;
+  font-weight: bold;
+  padding-block-start: 1.2rem;
+  color: #3811a3;
+}
+
+.sales-hor {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}

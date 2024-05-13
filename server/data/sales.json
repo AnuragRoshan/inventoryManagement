@@ -1,0 +1,9062 @@
+[
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 68,
+    "Inventory": 332
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 82,
+    "Inventory": 250
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 192
+  },
+  {
+    "Date": "06-21-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 131
+  },
+  {
+    "Date": "06-22-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 71
+  },
+  {
+    "Date": "06-23-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 12
+  },
+  {
+    "Date": "06-24-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 400
+  },
+  {
+    "Date": "06-25-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "06-26-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 57,
+    "Inventory": 274
+  },
+  {
+    "Date": "06-27-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "06-28-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "06-29-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "06-30-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "07-01-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-02-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-03-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 63,
+    "Inventory": 267
+  },
+  {
+    "Date": "07-04-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 79,
+    "Inventory": 188
+  },
+  {
+    "Date": "07-05-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 130
+  },
+  {
+    "Date": "07-06-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 57,
+    "Inventory": 73
+  },
+  {
+    "Date": "07-07-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 15
+  },
+  {
+    "Date": "07-08-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-09-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 68,
+    "Inventory": 332
+  },
+  {
+    "Date": "07-10-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 274
+  },
+  {
+    "Date": "07-11-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 63,
+    "Inventory": 211
+  },
+  {
+    "Date": "07-12-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 57,
+    "Inventory": 154
+  },
+  {
+    "Date": "07-13-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 95
+  },
+  {
+    "Date": "07-14-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 35
+  },
+  {
+    "Date": "07-15-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 71,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-16-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-17-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 57,
+    "Inventory": 274
+  },
+  {
+    "Date": "07-18-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 63,
+    "Inventory": 211
+  },
+  {
+    "Date": "07-19-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 64,
+    "Inventory": 147
+  },
+  {
+    "Date": "07-20-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 88
+  },
+  {
+    "Date": "07-21-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 28
+  },
+  {
+    "Date": "07-22-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 68,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-23-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 71,
+    "Inventory": 329
+  },
+  {
+    "Date": "07-24-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 57,
+    "Inventory": 272
+  },
+  {
+    "Date": "07-25-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 210
+  },
+  {
+    "Date": "07-26-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 148
+  },
+  {
+    "Date": "07-27-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 63,
+    "Inventory": 85
+  },
+  {
+    "Date": "07-28-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 26
+  },
+  {
+    "Date": "07-29-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-30-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-31-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "08-01-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "08-02-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-03-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "08-04-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "08-05-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-06-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-07-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "08-08-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "08-09-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "08-10-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "08-11-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "08-12-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-13-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-14-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "08-15-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "08-16-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 63,
+    "Inventory": 338
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 279
+  },
+  {
+    "Date": "08-20-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 219
+  },
+  {
+    "Date": "08-21-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 158
+  },
+  {
+    "Date": "08-22-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 96
+  },
+  {
+    "Date": "08-23-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "08-24-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-25-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "08-26-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "08-27-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "08-28-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "08-29-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "08-30-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "08-31-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "09-01-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "09-02-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "09-03-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "09-04-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "09-05-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "09-06-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "09-07-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "09-08-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "09-09-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "09-10-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "09-11-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "09-12-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "09-13-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "09-14-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "09-15-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "09-16-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "09-17-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "09-18-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "09-19-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "09-20-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "09-21-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "09-22-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "09-23-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "09-24-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "09-25-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "09-26-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "09-27-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "09-28-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "09-29-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "09-30-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "10-01-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "10-02-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "10-03-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "10-04-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "10-05-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "10-06-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "10-07-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "10-08-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "10-09-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "10-10-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "10-11-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "10-12-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "10-13-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "10-14-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "10-15-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "10-16-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "10-17-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 65,
+    "Inventory": 95
+  },
+  {
+    "Date": "10-18-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 68,
+    "Inventory": 36
+  },
+  {
+    "Date": "10-19-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "10-20-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 71,
+    "Inventory": 331
+  },
+  {
+    "Date": "10-21-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "10-22-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "10-23-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 152
+  },
+  {
+    "Date": "10-24-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 91
+  },
+  {
+    "Date": "10-25-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 400
+  },
+  {
+    "Date": "10-26-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 331
+  },
+  {
+    "Date": "10-27-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "10-28-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 57,
+    "Inventory": 214
+  },
+  {
+    "Date": "10-29-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 63,
+    "Inventory": 153
+  },
+  {
+    "Date": "10-30-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "10-31-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "11-01-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 331
+  },
+  {
+    "Date": "11-02-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "11-03-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "11-04-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "11-05-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "11-06-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "11-07-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "11-08-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "11-09-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "11-10-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "11-11-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "11-12-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "11-13-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "11-14-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "11-15-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "11-16-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "11-17-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "11-18-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "11-19-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "11-20-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "11-21-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "11-22-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "11-23-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "11-24-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "11-25-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "11-26-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "11-27-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "11-28-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "11-29-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "11-30-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "12-01-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "12-02-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "12-03-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "12-04-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "12-05-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "12-06-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "12-07-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "12-08-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "12-09-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "12-10-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "12-11-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "12-12-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "12-13-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "12-14-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "12-15-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "12-16-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "12-17-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 65,
+    "Inventory": 95
+  },
+  {
+    "Date": "12-18-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 68,
+    "Inventory": 36
+  },
+  {
+    "Date": "12-19-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "12-20-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 71,
+    "Inventory": 331
+  },
+  {
+    "Date": "12-21-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "12-22-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "12-23-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 152
+  },
+  {
+    "Date": "12-24-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 91
+  },
+  {
+    "Date": "12-25-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 400
+  },
+  {
+    "Date": "12-26-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 331
+  },
+  {
+    "Date": "12-27-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "12-28-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 57,
+    "Inventory": 214
+  },
+  {
+    "Date": "12-29-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 63,
+    "Inventory": 153
+  },
+  {
+    "Date": "12-30-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "12-31-2023",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "01-01-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 331
+  },
+  {
+    "Date": "01-02-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "01-03-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "01-04-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "01-05-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "01-06-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "01-07-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "01-08-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "01-09-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "01-10-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "01-11-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "01-12-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "01-13-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "01-14-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "01-15-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "01-16-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "01-17-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "01-18-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "01-19-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "01-20-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "01-21-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "01-22-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "01-23-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "01-24-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "01-25-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "01-26-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "01-27-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "01-28-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "01-29-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "01-30-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "01-31-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "02-01-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "02-02-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "02-03-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "02-04-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "02-05-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "02-06-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "02-07-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "02-08-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "02-09-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "02-10-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "02-11-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "02-12-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "02-13-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "02-14-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "02-15-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "02-16-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 65,
+    "Inventory": 95
+  },
+  {
+    "Date": "02-17-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 68,
+    "Inventory": 36
+  },
+  {
+    "Date": "02-18-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "02-19-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 71,
+    "Inventory": 331
+  },
+  {
+    "Date": "02-20-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "02-21-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "02-22-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 152
+  },
+  {
+    "Date": "02-23-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 91
+  },
+  {
+    "Date": "02-24-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 400
+  },
+  {
+    "Date": "02-25-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 331
+  },
+  {
+    "Date": "02-26-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "02-27-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 57,
+    "Inventory": 214
+  },
+  {
+    "Date": "02-28-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 63,
+    "Inventory": 153
+  },
+  {
+    "Date": "02-29-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "03-01-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "03-02-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 331
+  },
+  {
+    "Date": "03-03-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "03-04-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "03-05-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "03-06-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "03-07-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "03-08-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "03-09-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "03-10-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "03-11-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "03-12-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "03-13-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "03-14-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "03-15-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "03-16-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "03-17-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "03-18-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "03-19-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "03-20-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "03-21-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "03-22-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "03-23-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "03-24-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "03-25-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "03-26-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "03-27-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "03-28-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "03-29-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "03-30-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "03-31-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "04-01-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "04-02-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "04-03-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "04-04-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "04-05-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "04-06-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "04-07-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "04-08-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "04-09-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "04-10-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "04-11-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "04-12-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "04-13-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "04-14-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "04-15-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "04-16-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "04-17-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 65,
+    "Inventory": 95
+  },
+  {
+    "Date": "04-18-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 68,
+    "Inventory": 36
+  },
+  {
+    "Date": "04-19-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "04-20-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 71,
+    "Inventory": 331
+  },
+  {
+    "Date": "04-21-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "04-22-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "04-23-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 60,
+    "Inventory": 152
+  },
+  {
+    "Date": "04-24-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 91
+  },
+  {
+    "Date": "04-25-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 69,
+    "Inventory": 400
+  },
+  {
+    "Date": "04-26-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 331
+  },
+  {
+    "Date": "04-27-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "04-28-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 57,
+    "Inventory": 214
+  },
+  {
+    "Date": "04-29-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 63,
+    "Inventory": 153
+  },
+  {
+    "Date": "04-30-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "05-01-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "05-02-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 70,
+    "Inventory": 331
+  },
+  {
+    "Date": "05-03-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "05-04-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "05-05-2024",
+    "Product_ID": "Product_1",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 325
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 68,
+    "Inventory": 250
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 55,
+    "Inventory": 190
+  },
+  {
+    "Date": "06-21-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 130
+  },
+  {
+    "Date": "06-22-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 72
+  },
+  {
+    "Date": "06-23-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 18
+  },
+  {
+    "Date": "06-24-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "06-25-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 68,
+    "Inventory": 332
+  },
+  {
+    "Date": "06-26-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 54,
+    "Inventory": 277
+  },
+  {
+    "Date": "06-27-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 55,
+    "Inventory": 220
+  },
+  {
+    "Date": "06-28-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 53,
+    "Inventory": 163
+  },
+  {
+    "Date": "06-29-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 105
+  },
+  {
+    "Date": "06-30-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 42
+  },
+  {
+    "Date": "07-01-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-02-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 71,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-03-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 268
+  },
+  {
+    "Date": "07-04-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 78,
+    "Inventory": 190
+  },
+  {
+    "Date": "07-05-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 55,
+    "Inventory": 132
+  },
+  {
+    "Date": "07-06-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 54,
+    "Inventory": 75
+  },
+  {
+    "Date": "07-07-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 56,
+    "Inventory": 19
+  },
+  {
+    "Date": "07-08-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-09-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 332
+  },
+  {
+    "Date": "07-10-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 276
+  },
+  {
+    "Date": "07-11-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 214
+  },
+  {
+    "Date": "07-12-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 56,
+    "Inventory": 157
+  },
+  {
+    "Date": "07-13-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 98
+  },
+  {
+    "Date": "07-14-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 38
+  },
+  {
+    "Date": "07-15-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-16-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 332
+  },
+  {
+    "Date": "07-17-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 56,
+    "Inventory": 275
+  },
+  {
+    "Date": "07-18-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 212
+  },
+  {
+    "Date": "07-19-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 63,
+    "Inventory": 148
+  },
+  {
+    "Date": "07-20-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 89
+  },
+  {
+    "Date": "07-21-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 29
+  },
+  {
+    "Date": "07-22-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 68,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-23-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 71,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-24-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 56,
+    "Inventory": 274
+  },
+  {
+    "Date": "07-25-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 63,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-26-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 151
+  },
+  {
+    "Date": "07-27-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 64,
+    "Inventory": 87
+  },
+  {
+    "Date": "07-28-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 28
+  },
+  {
+    "Date": "07-29-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-30-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-31-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 273
+  },
+  {
+    "Date": "08-01-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 63,
+    "Inventory": 212
+  },
+  {
+    "Date": "08-02-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-03-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 63,
+    "Inventory": 93
+  },
+  {
+    "Date": "08-04-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 35
+  },
+  {
+    "Date": "08-05-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-06-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-07-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 271
+  },
+  {
+    "Date": "08-08-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 63,
+    "Inventory": 210
+  },
+  {
+    "Date": "08-09-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 151
+  },
+  {
+    "Date": "08-10-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 92
+  },
+  {
+    "Date": "08-11-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 35
+  },
+  {
+    "Date": "08-12-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-13-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-14-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "08-15-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 214
+  },
+  {
+    "Date": "08-16-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 155
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 93
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 32
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 2
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "08-20-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "08-21-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "08-22-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-23-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 68,
+    "Inventory": 332
+  },
+  {
+    "Date": "08-24-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 274
+  },
+  {
+    "Date": "08-25-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 63,
+    "Inventory": 211
+  },
+  {
+    "Date": "08-26-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 64,
+    "Inventory": 147
+  },
+  {
+    "Date": "08-27-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 88
+  },
+  {
+    "Date": "08-28-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 28
+  },
+  {
+    "Date": "08-29-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 68,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-30-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 71,
+    "Inventory": 329
+  },
+  {
+    "Date": "08-31-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 57,
+    "Inventory": 272
+  },
+  {
+    "Date": "09-01-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 210
+  },
+  {
+    "Date": "09-02-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 148
+  },
+  {
+    "Date": "09-03-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 63,
+    "Inventory": 85
+  },
+  {
+    "Date": "09-04-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 26
+  },
+  {
+    "Date": "09-05-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 400
+  },
+  {
+    "Date": "09-06-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "09-07-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "09-08-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "09-09-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "09-10-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "09-11-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "09-12-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "09-13-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "09-14-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "09-15-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "09-16-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "09-17-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "09-18-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "09-19-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "09-20-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "09-21-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "09-22-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "09-23-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "09-24-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "09-25-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "09-26-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "09-27-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "09-28-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "09-29-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "09-30-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "10-01-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "10-02-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "10-03-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "10-04-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "10-05-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "10-06-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "10-07-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "10-08-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "10-09-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "10-10-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "10-11-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "10-12-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "10-13-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "10-14-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "10-15-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "10-16-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "10-17-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "10-18-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "10-19-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "10-20-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "10-21-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "10-22-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "10-23-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "10-24-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "10-25-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "10-26-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "10-27-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "10-28-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "10-29-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "10-30-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "10-31-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "11-01-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "11-02-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "11-03-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "11-04-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "11-05-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "11-06-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "11-07-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "11-08-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "11-09-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "11-10-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "11-11-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "11-12-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "11-13-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "11-14-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "11-15-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "11-16-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "11-17-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "11-18-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "11-19-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "11-20-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "11-21-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "11-22-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "11-23-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "11-24-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "11-25-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "11-26-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "11-27-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "11-28-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "11-29-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "11-30-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "12-01-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "12-02-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "12-03-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "12-04-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "12-05-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "12-06-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "12-07-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "12-08-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "12-09-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "12-10-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "12-11-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "12-12-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "12-13-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "12-14-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "12-15-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "12-16-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "12-17-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "12-18-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "12-19-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "12-20-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "12-21-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "12-22-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "12-23-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "12-24-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "12-25-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "12-26-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "12-27-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "12-28-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "12-29-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "12-30-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "12-31-2023",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "01-01-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "01-02-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "01-03-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "01-04-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "01-05-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "01-06-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "01-07-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "01-08-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "01-09-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "01-10-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "01-11-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "01-12-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "01-13-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "01-14-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "01-15-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "01-16-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "01-17-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "01-18-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "01-19-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "01-20-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "01-21-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "01-22-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "01-23-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "01-24-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "01-25-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "01-26-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "01-27-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "01-28-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "01-29-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "01-30-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "01-31-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "02-01-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "02-02-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "02-03-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "02-04-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "02-05-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "02-06-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "02-07-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "02-08-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "02-09-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "02-10-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "02-11-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "02-12-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "02-13-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "02-14-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "02-15-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "02-16-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "02-17-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "02-18-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "02-19-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "02-20-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "02-21-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "02-22-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "02-23-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "02-24-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "02-25-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "02-26-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "02-27-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "02-28-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "02-29-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "03-01-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "03-02-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "03-03-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "03-04-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "03-05-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "03-06-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "03-07-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "03-08-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "03-09-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "03-10-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "03-11-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "03-12-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "03-13-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "03-14-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "03-15-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "03-16-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "03-17-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "03-18-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "03-19-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "03-20-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "03-21-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "03-22-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "03-23-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "03-24-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "03-25-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "03-26-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "03-27-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "03-28-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "03-29-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "03-30-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "03-31-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "04-01-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "04-02-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "04-03-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "04-04-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "04-05-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "04-06-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "04-07-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "04-08-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "04-09-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "04-10-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "04-11-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "04-12-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "04-13-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "04-14-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "04-15-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "04-16-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "04-17-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "04-18-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "04-19-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "04-20-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "04-21-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "04-22-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "04-23-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "04-24-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "04-25-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "04-26-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "04-27-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "04-28-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "04-29-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "04-30-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "05-01-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "05-02-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "05-03-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "05-04-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "05-05-2024",
+    "Product_ID": "Product_2",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 65,
+    "Inventory": 320
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 240
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 54,
+    "Inventory": 185
+  },
+  {
+    "Date": "06-21-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 129
+  },
+  {
+    "Date": "06-22-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 55,
+    "Inventory": 75
+  },
+  {
+    "Date": "06-23-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 57,
+    "Inventory": 20
+  },
+  {
+    "Date": "06-24-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 68,
+    "Inventory": 400
+  },
+  {
+    "Date": "06-25-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 67,
+    "Inventory": 330
+  },
+  {
+    "Date": "06-26-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 52,
+    "Inventory": 272
+  },
+  {
+    "Date": "06-27-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 54,
+    "Inventory": 215
+  },
+  {
+    "Date": "06-28-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 53,
+    "Inventory": 157
+  },
+  {
+    "Date": "06-29-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 98
+  },
+  {
+    "Date": "06-30-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 35
+  },
+  {
+    "Date": "07-01-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-02-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 68,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-03-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 57,
+    "Inventory": 270
+  },
+  {
+    "Date": "07-04-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 75,
+    "Inventory": 189
+  },
+  {
+    "Date": "07-05-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 54,
+    "Inventory": 130
+  },
+  {
+    "Date": "07-06-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 53,
+    "Inventory": 71
+  },
+  {
+    "Date": "07-07-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 54,
+    "Inventory": 17
+  },
+  {
+    "Date": "07-08-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 68,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-09-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 67,
+    "Inventory": 332
+  },
+  {
+    "Date": "07-10-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 57,
+    "Inventory": 276
+  },
+  {
+    "Date": "07-11-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 215
+  },
+  {
+    "Date": "07-12-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 54,
+    "Inventory": 158
+  },
+  {
+    "Date": "07-13-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 97
+  },
+  {
+    "Date": "07-14-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 36
+  },
+  {
+    "Date": "07-15-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-16-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 68,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-17-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 54,
+    "Inventory": 273
+  },
+  {
+    "Date": "07-18-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 210
+  },
+  {
+    "Date": "07-19-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 146
+  },
+  {
+    "Date": "07-20-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 56,
+    "Inventory": 87
+  },
+  {
+    "Date": "07-21-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 30
+  },
+  {
+    "Date": "07-22-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 68,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-23-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-24-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 54,
+    "Inventory": 275
+  },
+  {
+    "Date": "07-25-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-26-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 151
+  },
+  {
+    "Date": "07-27-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 88
+  },
+  {
+    "Date": "07-28-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 56,
+    "Inventory": 30
+  },
+  {
+    "Date": "07-29-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 67,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-30-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 68,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-31-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 57,
+    "Inventory": 271
+  },
+  {
+    "Date": "08-01-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 210
+  },
+  {
+    "Date": "08-02-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "08-03-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 89
+  },
+  {
+    "Date": "08-04-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 57,
+    "Inventory": 31
+  },
+  {
+    "Date": "08-05-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-06-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 68,
+    "Inventory": 330
+  },
+  {
+    "Date": "08-07-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "08-08-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 211
+  },
+  {
+    "Date": "08-09-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 57,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-10-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 91
+  },
+  {
+    "Date": "08-11-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 56,
+    "Inventory": 34
+  },
+  {
+    "Date": "08-12-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-13-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 68,
+    "Inventory": 330
+  },
+  {
+    "Date": "08-14-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "08-15-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 213
+  },
+  {
+    "Date": "08-16-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 153
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 94
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 57,
+    "Inventory": 33
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 56,
+    "Inventory": 1
+  },
+  {
+    "Date": "09-19-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "09-20-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "09-21-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "09-22-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "09-23-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "09-24-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "09-25-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "09-26-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "09-27-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "09-28-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "09-29-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "09-30-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "10-01-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "10-02-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "10-03-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "10-04-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "10-05-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "10-06-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "10-07-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "10-08-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "10-09-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "10-10-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "10-11-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "10-12-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "10-13-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "10-14-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "10-15-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "10-16-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "10-17-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "10-18-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "10-19-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "10-20-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "10-21-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "10-22-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "10-23-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "10-24-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "10-25-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "10-26-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "10-27-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "10-28-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "10-29-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "10-30-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "10-31-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "11-01-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "11-02-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "11-03-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "11-04-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "11-05-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "11-06-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "11-07-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "11-08-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "11-09-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "11-10-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "11-11-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "11-12-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "11-13-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "11-14-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "11-15-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "11-16-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "11-17-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "11-18-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "11-19-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "11-20-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "11-21-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "11-22-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "11-23-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "11-24-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "11-25-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "11-26-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "11-27-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "11-28-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "11-29-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "11-30-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "12-01-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "12-02-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "12-03-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "12-04-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "12-05-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "12-06-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "12-07-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "12-08-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "12-09-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "12-10-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "12-11-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "12-12-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "12-13-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "12-14-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "12-15-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "12-16-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "12-17-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "12-18-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "12-19-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "12-20-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "12-21-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "12-22-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "12-23-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "12-24-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "12-25-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "12-26-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "12-27-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "12-28-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "12-29-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "12-30-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "12-31-2023",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "01-01-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "01-02-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "01-03-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "01-04-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "01-05-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "01-06-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "01-07-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "01-08-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "01-09-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 214
+  },
+  {
+    "Date": "01-10-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "01-11-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 95
+  },
+  {
+    "Date": "01-12-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "01-13-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "01-14-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 332
+  },
+  {
+    "Date": "01-15-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "01-16-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 216
+  },
+  {
+    "Date": "01-17-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 57,
+    "Inventory": 159
+  },
+  {
+    "Date": "01-18-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 63,
+    "Inventory": 96
+  },
+  {
+    "Date": "01-19-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "01-20-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "01-21-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "01-22-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "01-23-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 213
+  },
+  {
+    "Date": "01-24-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 152
+  },
+  {
+    "Date": "01-25-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "01-26-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "01-27-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "01-28-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "01-29-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "01-30-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 210
+  },
+  {
+    "Date": "01-31-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 150
+  },
+  {
+    "Date": "02-01-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "02-02-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "02-03-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "02-04-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "02-05-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "02-06-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 94
+  },
+  {
+    "Date": "02-07-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 35
+  },
+  {
+    "Date": "02-08-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "02-09-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 331
+  },
+  {
+    "Date": "02-10-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "02-11-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 214
+  },
+  {
+    "Date": "02-12-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "02-13-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 94
+  },
+  {
+    "Date": "02-14-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 35
+  },
+  {
+    "Date": "02-15-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "02-16-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 331
+  },
+  {
+    "Date": "02-17-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "02-18-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 214
+  },
+  {
+    "Date": "02-19-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "02-20-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 94
+  },
+  {
+    "Date": "02-21-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 35
+  },
+  {
+    "Date": "02-22-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "02-23-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 331
+  },
+  {
+    "Date": "02-24-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "02-25-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 214
+  },
+  {
+    "Date": "02-26-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "02-27-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 94
+  },
+  {
+    "Date": "02-28-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 35
+  },
+  {
+    "Date": "02-29-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "03-01-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 331
+  },
+  {
+    "Date": "03-02-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "03-03-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 214
+  },
+  {
+    "Date": "03-04-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "03-05-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 94
+  },
+  {
+    "Date": "03-06-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 35
+  },
+  {
+    "Date": "03-07-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "03-08-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 331
+  },
+  {
+    "Date": "03-09-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "03-10-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 214
+  },
+  {
+    "Date": "03-11-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "03-12-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 94
+  },
+  {
+    "Date": "03-13-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 35
+  },
+  {
+    "Date": "03-14-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "03-15-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 331
+  },
+  {
+    "Date": "03-16-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "03-17-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 214
+  },
+  {
+    "Date": "03-18-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "03-19-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 94
+  },
+  {
+    "Date": "03-20-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 58,
+    "Inventory": 35
+  },
+  {
+    "Date": "03-21-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 72,
+    "Inventory": 400
+  },
+  {
+    "Date": "03-22-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 70,
+    "Inventory": 331
+  },
+  {
+    "Date": "03-23-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "03-24-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 60,
+    "Inventory": 214
+  },
+  {
+    "Date": "03-25-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "03-26-2024",
+    "Product_ID": "Product_3",
+    "Sale_Count": 62,
+    "Inventory": 94
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 63,
+    "Inventory": 310
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 68,
+    "Inventory": 240
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 55,
+    "Inventory": 182
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 57,
+    "Inventory": 90
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 55,
+    "Inventory": 33
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 54,
+    "Inventory": 3
+  },
+  {
+    "Date": "08-20-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 52,
+    "Inventory": 30
+  },
+  {
+    "Date": "08-21-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 49,
+    "Inventory": 25
+  },
+  {
+    "Date": "08-22-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 46,
+    "Inventory": 20
+  },
+  {
+    "Date": "08-23-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 43,
+    "Inventory": 15
+  },
+  {
+    "Date": "08-24-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 40,
+    "Inventory": 10
+  },
+  {
+    "Date": "08-25-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 37,
+    "Inventory": 18
+  },
+  {
+    "Date": "08-26-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 34,
+    "Inventory": 16
+  },
+  {
+    "Date": "08-27-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 31,
+    "Inventory": 41
+  },
+  {
+    "Date": "08-28-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 28,
+    "Inventory": 31
+  },
+  {
+    "Date": "08-29-2023",
+    "Product_ID": "Product_4",
+    "Sale_Count": 25,
+    "Inventory": 12
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 66,
+    "Inventory": 315
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 71,
+    "Inventory": 235
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 56,
+    "Inventory": 190
+  },
+  {
+    "Date": "06-21-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 61,
+    "Inventory": 135
+  },
+  {
+    "Date": "06-22-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 58,
+    "Inventory": 78
+  },
+  {
+    "Date": "06-23-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 60,
+    "Inventory": 25
+  },
+  {
+    "Date": "06-24-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 71,
+    "Inventory": 400
+  },
+  {
+    "Date": "06-25-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "06-26-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 55,
+    "Inventory": 273
+  },
+  {
+    "Date": "06-27-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 57,
+    "Inventory": 216
+  },
+  {
+    "Date": "06-28-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 56,
+    "Inventory": 159
+  },
+  {
+    "Date": "06-29-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 62,
+    "Inventory": 100
+  },
+  {
+    "Date": "06-30-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 63,
+    "Inventory": 38
+  },
+  {
+    "Date": "07-01-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-02-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 71,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-03-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 58,
+    "Inventory": 271
+  },
+  {
+    "Date": "07-04-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 76,
+    "Inventory": 190
+  },
+  {
+    "Date": "07-05-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 57,
+    "Inventory": 131
+  },
+  {
+    "Date": "07-06-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 56,
+    "Inventory": 74
+  },
+  {
+    "Date": "07-07-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 58,
+    "Inventory": 17
+  },
+  {
+    "Date": "07-08-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 71,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-09-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 69,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-10-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 58,
+    "Inventory": 273
+  },
+  {
+    "Date": "07-11-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 61,
+    "Inventory": 212
+  },
+  {
+    "Date": "07-12-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 56,
+    "Inventory": 155
+  },
+  {
+    "Date": "07-13-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 59,
+    "Inventory": 96
+  },
+  {
+    "Date": "07-14-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 61,
+    "Inventory": 35
+  },
+  {
+    "Date": "07-15-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-16-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-17-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 56,
+    "Inventory": 274
+  },
+  {
+    "Date": "07-18-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 61,
+    "Inventory": 211
+  },
+  {
+    "Date": "07-19-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 62,
+    "Inventory": 147
+  },
+  {
+    "Date": "07-20-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 57,
+    "Inventory": 89
+  },
+  {
+    "Date": "07-21-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 60,
+    "Inventory": 30
+  },
+  {
+    "Date": "07-22-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-23-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 71,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-24-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 56,
+    "Inventory": 274
+  },
+  {
+    "Date": "07-25-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 61,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-26-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 61,
+    "Inventory": 150
+  },
+  {
+    "Date": "07-27-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 62,
+    "Inventory": 89
+  },
+  {
+    "Date": "07-28-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 58,
+    "Inventory": 30
+  },
+  {
+    "Date": "07-29-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 69,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-30-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 70,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-31-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "08-01-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 61,
+    "Inventory": 213
+  },
+  {
+    "Date": "08-02-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 61,
+    "Inventory": 153
+  },
+  {
+    "Date": "08-03-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 62,
+    "Inventory": 94
+  },
+  {
+    "Date": "08-04-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 58,
+    "Inventory": 33
+  },
+  {
+    "Date": "08-05-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-06-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 70,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-07-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 59,
+    "Inventory": 270
+  },
+  {
+    "Date": "08-08-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 61,
+    "Inventory": 212
+  },
+  {
+    "Date": "08-09-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 58,
+    "Inventory": 153
+  },
+  {
+    "Date": "08-10-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 59,
+    "Inventory": 91
+  },
+  {
+    "Date": "08-11-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 58,
+    "Inventory": 34
+  },
+  {
+    "Date": "08-12-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 70,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-13-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 70,
+    "Inventory": 330
+  },
+  {
+    "Date": "08-14-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "08-15-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 60,
+    "Inventory": 213
+  },
+  {
+    "Date": "08-16-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 61,
+    "Inventory": 154
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 58,
+    "Inventory": 95
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 58,
+    "Inventory": 36
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_5",
+    "Sale_Count": 59,
+    "Inventory": 2
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_6",
+    "Sale_Count": 67,
+    "Inventory": 312
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_6",
+    "Sale_Count": 72,
+    "Inventory": 234
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_6",
+    "Sale_Count": 58,
+    "Inventory": 183
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_6",
+    "Sale_Count": 57,
+    "Inventory": 96
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_6",
+    "Sale_Count": 55,
+    "Inventory": 38
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_6",
+    "Sale_Count": 58,
+    "Inventory": 4
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 68,
+    "Inventory": 309
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 73,
+    "Inventory": 230
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 59,
+    "Inventory": 180
+  },
+  {
+    "Date": "06-21-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 64,
+    "Inventory": 126
+  },
+  {
+    "Date": "06-22-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 61,
+    "Inventory": 70
+  },
+  {
+    "Date": "06-23-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 62,
+    "Inventory": 21
+  },
+  {
+    "Date": "06-24-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 74,
+    "Inventory": 400
+  },
+  {
+    "Date": "06-25-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 71,
+    "Inventory": 330
+  },
+  {
+    "Date": "06-26-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 57,
+    "Inventory": 273
+  },
+  {
+    "Date": "06-27-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 59,
+    "Inventory": 214
+  },
+  {
+    "Date": "06-28-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 58,
+    "Inventory": 155
+  },
+  {
+    "Date": "06-29-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 64,
+    "Inventory": 96
+  },
+  {
+    "Date": "06-30-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 65,
+    "Inventory": 35
+  },
+  {
+    "Date": "07-01-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 75,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-02-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 72,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-03-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 59,
+    "Inventory": 271
+  },
+  {
+    "Date": "07-04-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 77,
+    "Inventory": 190
+  },
+  {
+    "Date": "07-05-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 58,
+    "Inventory": 132
+  },
+  {
+    "Date": "07-06-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 57,
+    "Inventory": 73
+  },
+  {
+    "Date": "07-07-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 59,
+    "Inventory": 18
+  },
+  {
+    "Date": "07-08-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-09-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 71,
+    "Inventory": 332
+  },
+  {
+    "Date": "07-10-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 59,
+    "Inventory": 275
+  },
+  {
+    "Date": "07-11-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 62,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-12-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 57,
+    "Inventory": 155
+  },
+  {
+    "Date": "07-13-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 60,
+    "Inventory": 97
+  },
+  {
+    "Date": "07-14-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 62,
+    "Inventory": 36
+  },
+  {
+    "Date": "07-15-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 75,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-16-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 72,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-17-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 58,
+    "Inventory": 272
+  },
+  {
+    "Date": "07-18-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 62,
+    "Inventory": 210
+  },
+  {
+    "Date": "07-19-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 63,
+    "Inventory": 147
+  },
+  {
+    "Date": "07-20-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 58,
+    "Inventory": 88
+  },
+  {
+    "Date": "07-21-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 61,
+    "Inventory": 31
+  },
+  {
+    "Date": "07-22-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-23-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 74,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-24-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 58,
+    "Inventory": 274
+  },
+  {
+    "Date": "07-25-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 62,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-26-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 63,
+    "Inventory": 151
+  },
+  {
+    "Date": "07-27-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 64,
+    "Inventory": 89
+  },
+  {
+    "Date": "07-28-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 59,
+    "Inventory": 31
+  },
+  {
+    "Date": "07-29-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 71,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-30-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 72,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-31-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 58,
+    "Inventory": 271
+  },
+  {
+    "Date": "08-01-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 61,
+    "Inventory": 212
+  },
+  {
+    "Date": "08-02-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 62,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-03-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 62,
+    "Inventory": 93
+  },
+  {
+    "Date": "08-04-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 59,
+    "Inventory": 34
+  },
+  {
+    "Date": "08-05-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 75,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-06-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 72,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-07-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 61,
+    "Inventory": 271
+  },
+  {
+    "Date": "08-08-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 62,
+    "Inventory": 212
+  },
+  {
+    "Date": "08-09-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 59,
+    "Inventory": 153
+  },
+  {
+    "Date": "08-10-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 60,
+    "Inventory": 91
+  },
+  {
+    "Date": "08-11-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 59,
+    "Inventory": 33
+  },
+  {
+    "Date": "08-12-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-13-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 72,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-14-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 60,
+    "Inventory": 273
+  },
+  {
+    "Date": "08-15-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 61,
+    "Inventory": 214
+  },
+  {
+    "Date": "08-16-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 62,
+    "Inventory": 155
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 59,
+    "Inventory": 96
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 58,
+    "Inventory": 37
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_7",
+    "Sale_Count": 60,
+    "Inventory": 5
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_8",
+    "Sale_Count": 69,
+    "Inventory": 312
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_8",
+    "Sale_Count": 74,
+    "Inventory": 232
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_8",
+    "Sale_Count": 60,
+    "Inventory": 181
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_8",
+    "Sale_Count": 58,
+    "Inventory": 97
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_8",
+    "Sale_Count": 56,
+    "Inventory": 39
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_8",
+    "Sale_Count": 59,
+    "Inventory": 6
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 70,
+    "Inventory": 307
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 75,
+    "Inventory": 228
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 61,
+    "Inventory": 179
+  },
+  {
+    "Date": "06-21-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 66,
+    "Inventory": 125
+  },
+  {
+    "Date": "06-22-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 63,
+    "Inventory": 69
+  },
+  {
+    "Date": "06-23-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 64,
+    "Inventory": 20
+  },
+  {
+    "Date": "06-24-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 76,
+    "Inventory": 400
+  },
+  {
+    "Date": "06-25-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 73,
+    "Inventory": 330
+  },
+  {
+    "Date": "06-26-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 59,
+    "Inventory": 272
+  },
+  {
+    "Date": "06-27-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 61,
+    "Inventory": 213
+  },
+  {
+    "Date": "06-28-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 60,
+    "Inventory": 154
+  },
+  {
+    "Date": "06-29-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 66,
+    "Inventory": 95
+  },
+  {
+    "Date": "06-30-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 67,
+    "Inventory": 34
+  },
+  {
+    "Date": "07-01-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 77,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-02-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 74,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-03-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 61,
+    "Inventory": 271
+  },
+  {
+    "Date": "07-04-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 78,
+    "Inventory": 190
+  },
+  {
+    "Date": "07-05-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 59,
+    "Inventory": 133
+  },
+  {
+    "Date": "07-06-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 58,
+    "Inventory": 74
+  },
+  {
+    "Date": "07-07-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 60,
+    "Inventory": 19
+  },
+  {
+    "Date": "07-08-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 74,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-09-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 73,
+    "Inventory": 332
+  },
+  {
+    "Date": "07-10-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 61,
+    "Inventory": 275
+  },
+  {
+    "Date": "07-11-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 64,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-12-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 59,
+    "Inventory": 155
+  },
+  {
+    "Date": "07-13-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 62,
+    "Inventory": 96
+  },
+  {
+    "Date": "07-14-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 64,
+    "Inventory": 37
+  },
+  {
+    "Date": "07-15-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 77,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-16-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 74,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-17-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 59,
+    "Inventory": 273
+  },
+  {
+    "Date": "07-18-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 64,
+    "Inventory": 211
+  },
+  {
+    "Date": "07-19-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 65,
+    "Inventory": 148
+  },
+  {
+    "Date": "07-20-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 60,
+    "Inventory": 89
+  },
+  {
+    "Date": "07-21-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 63,
+    "Inventory": 32
+  },
+  {
+    "Date": "07-22-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 74,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-23-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 76,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-24-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 59,
+    "Inventory": 274
+  },
+  {
+    "Date": "07-25-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 64,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-26-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 65,
+    "Inventory": 151
+  },
+  {
+    "Date": "07-27-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 66,
+    "Inventory": 89
+  },
+  {
+    "Date": "07-28-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 61,
+    "Inventory": 31
+  },
+  {
+    "Date": "07-29-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 73,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-30-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 74,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-31-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 60,
+    "Inventory": 271
+  },
+  {
+    "Date": "08-01-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 64,
+    "Inventory": 212
+  },
+  {
+    "Date": "08-02-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 65,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-03-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 65,
+    "Inventory": 93
+  },
+  {
+    "Date": "08-04-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 62,
+    "Inventory": 34
+  },
+  {
+    "Date": "08-05-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 77,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-06-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 74,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-07-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 62,
+    "Inventory": 270
+  },
+  {
+    "Date": "08-08-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 64,
+    "Inventory": 211
+  },
+  {
+    "Date": "08-09-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 60,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-10-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 61,
+    "Inventory": 91
+  },
+  {
+    "Date": "08-11-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 60,
+    "Inventory": 32
+  },
+  {
+    "Date": "08-12-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 75,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-13-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 74,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-14-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 61,
+    "Inventory": 273
+  },
+  {
+    "Date": "08-15-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 62,
+    "Inventory": 214
+  },
+  {
+    "Date": "08-16-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 63,
+    "Inventory": 155
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 60,
+    "Inventory": 97
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 59,
+    "Inventory": 38
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_9",
+    "Sale_Count": 61,
+    "Inventory": 7
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_10",
+    "Sale_Count": 71,
+    "Inventory": 305
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_10",
+    "Sale_Count": 76,
+    "Inventory": 226
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_10",
+    "Sale_Count": 62,
+    "Inventory": 177
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_10",
+    "Sale_Count": 59,
+    "Inventory": 100
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_10",
+    "Sale_Count": 57,
+    "Inventory": 40
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_10",
+    "Sale_Count": 62,
+    "Inventory": 8
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 72,
+    "Inventory": 303
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 77,
+    "Inventory": 224
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 63,
+    "Inventory": 175
+  },
+  {
+    "Date": "06-21-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 68,
+    "Inventory": 123
+  },
+  {
+    "Date": "06-22-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 65,
+    "Inventory": 68
+  },
+  {
+    "Date": "06-23-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 66,
+    "Inventory": 19
+  },
+  {
+    "Date": "06-24-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 78,
+    "Inventory": 400
+  },
+  {
+    "Date": "06-25-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 75,
+    "Inventory": 330
+  },
+  {
+    "Date": "06-26-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 61,
+    "Inventory": 271
+  },
+  {
+    "Date": "06-27-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 63,
+    "Inventory": 212
+  },
+  {
+    "Date": "06-28-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 62,
+    "Inventory": 153
+  },
+  {
+    "Date": "06-29-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 68,
+    "Inventory": 94
+  },
+  {
+    "Date": "06-30-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 69,
+    "Inventory": 35
+  },
+  {
+    "Date": "07-01-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 79,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-02-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 76,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-03-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 63,
+    "Inventory": 271
+  },
+  {
+    "Date": "07-04-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 80,
+    "Inventory": 192
+  },
+  {
+    "Date": "07-05-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 61,
+    "Inventory": 133
+  },
+  {
+    "Date": "07-06-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 60,
+    "Inventory": 74
+  },
+  {
+    "Date": "07-07-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 62,
+    "Inventory": 19
+  },
+  {
+    "Date": "07-08-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 76,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-09-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 75,
+    "Inventory": 332
+  },
+  {
+    "Date": "07-10-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 63,
+    "Inventory": 275
+  },
+  {
+    "Date": "07-11-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 66,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-12-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 61,
+    "Inventory": 155
+  },
+  {
+    "Date": "07-13-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 64,
+    "Inventory": 96
+  },
+  {
+    "Date": "07-14-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 66,
+    "Inventory": 37
+  },
+  {
+    "Date": "07-15-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 79,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-16-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 76,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-17-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 61,
+    "Inventory": 273
+  },
+  {
+    "Date": "07-18-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 66,
+    "Inventory": 211
+  },
+  {
+    "Date": "07-19-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 67,
+    "Inventory": 148
+  },
+  {
+    "Date": "07-20-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 62,
+    "Inventory": 89
+  },
+  {
+    "Date": "07-21-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 65,
+    "Inventory": 32
+  },
+  {
+    "Date": "07-22-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 76,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-23-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 78,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-24-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 61,
+    "Inventory": 274
+  },
+  {
+    "Date": "07-25-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 66,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-26-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 67,
+    "Inventory": 151
+  },
+  {
+    "Date": "07-27-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 68,
+    "Inventory": 89
+  },
+  {
+    "Date": "07-28-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 63,
+    "Inventory": 31
+  },
+  {
+    "Date": "07-29-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 75,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-30-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 76,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-31-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 62,
+    "Inventory": 271
+  },
+  {
+    "Date": "08-01-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 66,
+    "Inventory": 212
+  },
+  {
+    "Date": "08-02-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 67,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-03-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 67,
+    "Inventory": 93
+  },
+  {
+    "Date": "08-04-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 64,
+    "Inventory": 34
+  },
+  {
+    "Date": "08-05-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 79,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-06-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 76,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-07-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 64,
+    "Inventory": 270
+  },
+  {
+    "Date": "08-08-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 66,
+    "Inventory": 211
+  },
+  {
+    "Date": "08-09-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 63,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-10-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 64,
+    "Inventory": 91
+  },
+  {
+    "Date": "08-11-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 63,
+    "Inventory": 32
+  },
+  {
+    "Date": "08-12-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 78,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-13-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 76,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-14-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 64,
+    "Inventory": 273
+  },
+  {
+    "Date": "08-15-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 65,
+    "Inventory": 214
+  },
+  {
+    "Date": "08-16-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 66,
+    "Inventory": 155
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 63,
+    "Inventory": 98
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 62,
+    "Inventory": 39
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_11",
+    "Sale_Count": 64,
+    "Inventory": 9
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_12",
+    "Sale_Count": 73,
+    "Inventory": 301
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_12",
+    "Sale_Count": 78,
+    "Inventory": 222
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_12",
+    "Sale_Count": 64,
+    "Inventory": 173
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_12",
+    "Sale_Count": 60,
+    "Inventory": 101
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_12",
+    "Sale_Count": 58,
+    "Inventory": 41
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_12",
+    "Sale_Count": 63,
+    "Inventory": 10
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 74,
+    "Inventory": 299
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 79,
+    "Inventory": 220
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 65,
+    "Inventory": 171
+  },
+  {
+    "Date": "06-21-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 70,
+    "Inventory": 120
+  },
+  {
+    "Date": "06-22-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 67,
+    "Inventory": 67
+  },
+  {
+    "Date": "06-23-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 68,
+    "Inventory": 18
+  },
+  {
+    "Date": "06-24-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 80,
+    "Inventory": 400
+  },
+  {
+    "Date": "06-25-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 77,
+    "Inventory": 330
+  },
+  {
+    "Date": "06-26-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 63,
+    "Inventory": 271
+  },
+  {
+    "Date": "06-27-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 65,
+    "Inventory": 212
+  },
+  {
+    "Date": "06-28-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 64,
+    "Inventory": 153
+  },
+  {
+    "Date": "06-29-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 70,
+    "Inventory": 94
+  },
+  {
+    "Date": "06-30-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 71,
+    "Inventory": 35
+  },
+  {
+    "Date": "07-01-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 81,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-02-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 78,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-03-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 65,
+    "Inventory": 271
+  },
+  {
+    "Date": "07-04-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 82,
+    "Inventory": 194
+  },
+  {
+    "Date": "07-05-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 63,
+    "Inventory": 135
+  },
+  {
+    "Date": "07-06-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 62,
+    "Inventory": 76
+  },
+  {
+    "Date": "07-07-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 64,
+    "Inventory": 21
+  },
+  {
+    "Date": "07-08-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 78,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-09-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 77,
+    "Inventory": 332
+  },
+  {
+    "Date": "07-10-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 65,
+    "Inventory": 275
+  },
+  {
+    "Date": "07-11-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 68,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-12-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 63,
+    "Inventory": 155
+  },
+  {
+    "Date": "07-13-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 66,
+    "Inventory": 96
+  },
+  {
+    "Date": "07-14-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 68,
+    "Inventory": 37
+  },
+  {
+    "Date": "07-15-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 81,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-16-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 78,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-17-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 63,
+    "Inventory": 273
+  },
+  {
+    "Date": "07-18-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 68,
+    "Inventory": 211
+  },
+  {
+    "Date": "07-19-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 69,
+    "Inventory": 148
+  },
+  {
+    "Date": "07-20-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 64,
+    "Inventory": 89
+  },
+  {
+    "Date": "07-21-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 67,
+    "Inventory": 34
+  },
+  {
+    "Date": "07-22-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 78,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-23-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 80,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-24-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 63,
+    "Inventory": 274
+  },
+  {
+    "Date": "07-25-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 68,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-26-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 69,
+    "Inventory": 151
+  },
+  {
+    "Date": "07-27-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 70,
+    "Inventory": 90
+  },
+  {
+    "Date": "07-28-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 65,
+    "Inventory": 32
+  },
+  {
+    "Date": "07-29-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 77,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-30-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 78,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-31-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 64,
+    "Inventory": 271
+  },
+  {
+    "Date": "08-01-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 68,
+    "Inventory": 212
+  },
+  {
+    "Date": "08-02-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 69,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-03-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 69,
+    "Inventory": 93
+  },
+  {
+    "Date": "08-04-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 66,
+    "Inventory": 34
+  },
+  {
+    "Date": "08-05-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 81,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-06-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 78,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-07-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 66,
+    "Inventory": 270
+  },
+  {
+    "Date": "08-08-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 68,
+    "Inventory": 211
+  },
+  {
+    "Date": "08-09-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 65,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-10-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 66,
+    "Inventory": 91
+  },
+  {
+    "Date": "08-11-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 65,
+    "Inventory": 32
+  },
+  {
+    "Date": "08-12-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 80,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-13-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 78,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-14-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 66,
+    "Inventory": 273
+  },
+  {
+    "Date": "08-15-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 67,
+    "Inventory": 214
+  },
+  {
+    "Date": "08-16-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 68,
+    "Inventory": 155
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 65,
+    "Inventory": 98
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 64,
+    "Inventory": 39
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_13",
+    "Sale_Count": 66,
+    "Inventory": 11
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_14",
+    "Sale_Count": 75,
+    "Inventory": 297
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_14",
+    "Sale_Count": 80,
+    "Inventory": 218
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_14",
+    "Sale_Count": 66,
+    "Inventory": 169
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_14",
+    "Sale_Count": 61,
+    "Inventory": 102
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_14",
+    "Sale_Count": 59,
+    "Inventory": 42
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_14",
+    "Sale_Count": 64,
+    "Inventory": 12
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 76,
+    "Inventory": 295
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 81,
+    "Inventory": 216
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 67,
+    "Inventory": 167
+  },
+  {
+    "Date": "06-21-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 72,
+    "Inventory": 118
+  },
+  {
+    "Date": "06-22-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 69,
+    "Inventory": 69
+  },
+  {
+    "Date": "06-23-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 70,
+    "Inventory": 20
+  },
+  {
+    "Date": "06-24-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 82,
+    "Inventory": 400
+  },
+  {
+    "Date": "06-25-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 79,
+    "Inventory": 330
+  },
+  {
+    "Date": "06-26-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 65,
+    "Inventory": 271
+  },
+  {
+    "Date": "06-27-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 67,
+    "Inventory": 212
+  },
+  {
+    "Date": "06-28-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 66,
+    "Inventory": 153
+  },
+  {
+    "Date": "06-29-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 72,
+    "Inventory": 94
+  },
+  {
+    "Date": "06-30-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 73,
+    "Inventory": 35
+  },
+  {
+    "Date": "07-01-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 83,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-02-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 80,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-03-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 67,
+    "Inventory": 271
+  },
+  {
+    "Date": "07-04-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 84,
+    "Inventory": 196
+  },
+  {
+    "Date": "07-05-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 65,
+    "Inventory": 137
+  },
+  {
+    "Date": "07-06-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 64,
+    "Inventory": 78
+  },
+  {
+    "Date": "07-07-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 66,
+    "Inventory": 23
+  },
+  {
+    "Date": "07-08-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 80,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-09-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 79,
+    "Inventory": 332
+  },
+  {
+    "Date": "07-10-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 67,
+    "Inventory": 275
+  },
+  {
+    "Date": "07-11-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 70,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-12-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 65,
+    "Inventory": 155
+  },
+  {
+    "Date": "07-13-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 68,
+    "Inventory": 96
+  },
+  {
+    "Date": "07-14-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 70,
+    "Inventory": 37
+  },
+  {
+    "Date": "07-15-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 83,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-16-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 80,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-17-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 65,
+    "Inventory": 273
+  },
+  {
+    "Date": "07-18-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 70,
+    "Inventory": 211
+  },
+  {
+    "Date": "07-19-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 71,
+    "Inventory": 148
+  },
+  {
+    "Date": "07-20-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 66,
+    "Inventory": 89
+  },
+  {
+    "Date": "07-21-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 69,
+    "Inventory": 36
+  },
+  {
+    "Date": "07-22-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 80,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-23-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 82,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-24-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 65,
+    "Inventory": 274
+  },
+  {
+    "Date": "07-25-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 70,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-26-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 71,
+    "Inventory": 151
+  },
+  {
+    "Date": "07-27-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 72,
+    "Inventory": 90
+  },
+  {
+    "Date": "07-28-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 67,
+    "Inventory": 33
+  },
+  {
+    "Date": "07-29-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 79,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-30-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 80,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-31-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 66,
+    "Inventory": 271
+  },
+  {
+    "Date": "08-01-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 70,
+    "Inventory": 212
+  },
+  {
+    "Date": "08-02-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 71,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-03-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 71,
+    "Inventory": 93
+  },
+  {
+    "Date": "08-04-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 68,
+    "Inventory": 34
+  },
+  {
+    "Date": "08-05-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 83,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-06-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 80,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-07-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 67,
+    "Inventory": 270
+  },
+  {
+    "Date": "08-08-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 70,
+    "Inventory": 211
+  },
+  {
+    "Date": "08-09-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 67,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-10-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 68,
+    "Inventory": 91
+  },
+  {
+    "Date": "08-11-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 67,
+    "Inventory": 32
+  },
+  {
+    "Date": "08-12-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 82,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-13-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 80,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-14-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 67,
+    "Inventory": 273
+  },
+  {
+    "Date": "08-15-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 68,
+    "Inventory": 214
+  },
+  {
+    "Date": "08-16-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 69,
+    "Inventory": 155
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 66,
+    "Inventory": 98
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 65,
+    "Inventory": 39
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_15",
+    "Sale_Count": 68,
+    "Inventory": 13
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_16",
+    "Sale_Count": 77,
+    "Inventory": 293
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_16",
+    "Sale_Count": 82,
+    "Inventory": 214
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_16",
+    "Sale_Count": 68,
+    "Inventory": 165
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_16",
+    "Sale_Count": 62,
+    "Inventory": 103
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_16",
+    "Sale_Count": 60,
+    "Inventory": 43
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_16",
+    "Sale_Count": 65,
+    "Inventory": 14
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 78,
+    "Inventory": 291
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 83,
+    "Inventory": 212
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 69,
+    "Inventory": 163
+  },
+  {
+    "Date": "06-21-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 74,
+    "Inventory": 114
+  },
+  {
+    "Date": "06-22-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 71,
+    "Inventory": 65
+  },
+  {
+    "Date": "06-23-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 72,
+    "Inventory": 16
+  },
+  {
+    "Date": "06-24-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 84,
+    "Inventory": 400
+  },
+  {
+    "Date": "06-25-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 81,
+    "Inventory": 330
+  },
+  {
+    "Date": "06-26-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 67,
+    "Inventory": 271
+  },
+  {
+    "Date": "06-27-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 69,
+    "Inventory": 212
+  },
+  {
+    "Date": "06-28-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 68,
+    "Inventory": 153
+  },
+  {
+    "Date": "06-29-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 74,
+    "Inventory": 94
+  },
+  {
+    "Date": "06-30-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 75,
+    "Inventory": 35
+  },
+  {
+    "Date": "07-01-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 85,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-02-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 82,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-03-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 69,
+    "Inventory": 271
+  },
+  {
+    "Date": "07-04-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 86,
+    "Inventory": 198
+  },
+  {
+    "Date": "07-05-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 67,
+    "Inventory": 139
+  },
+  {
+    "Date": "07-06-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 66,
+    "Inventory": 80
+  },
+  {
+    "Date": "07-07-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 68,
+    "Inventory": 25
+  },
+  {
+    "Date": "07-08-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 82,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-09-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 81,
+    "Inventory": 332
+  },
+  {
+    "Date": "07-10-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 69,
+    "Inventory": 275
+  },
+  {
+    "Date": "07-11-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 72,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-12-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 67,
+    "Inventory": 155
+  },
+  {
+    "Date": "07-13-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 70,
+    "Inventory": 96
+  },
+  {
+    "Date": "07-14-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 72,
+    "Inventory": 37
+  },
+  {
+    "Date": "07-15-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 85,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-16-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 82,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-17-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 67,
+    "Inventory": 273
+  },
+  {
+    "Date": "07-18-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 72,
+    "Inventory": 211
+  },
+  {
+    "Date": "07-19-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 73,
+    "Inventory": 148
+  },
+  {
+    "Date": "07-20-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 68,
+    "Inventory": 89
+  },
+  {
+    "Date": "07-21-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 71,
+    "Inventory": 36
+  },
+  {
+    "Date": "07-22-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 82,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-23-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 84,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-24-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 67,
+    "Inventory": 274
+  },
+  {
+    "Date": "07-25-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 72,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-26-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 73,
+    "Inventory": 151
+  },
+  {
+    "Date": "07-27-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 74,
+    "Inventory": 90
+  },
+  {
+    "Date": "07-28-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 69,
+    "Inventory": 33
+  },
+  {
+    "Date": "07-29-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 81,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-30-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 82,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-31-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 68,
+    "Inventory": 271
+  },
+  {
+    "Date": "08-01-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 72,
+    "Inventory": 212
+  },
+  {
+    "Date": "08-02-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 73,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-03-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 73,
+    "Inventory": 93
+  },
+  {
+    "Date": "08-04-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 70,
+    "Inventory": 34
+  },
+  {
+    "Date": "08-05-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 85,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-06-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 82,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-07-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 69,
+    "Inventory": 270
+  },
+  {
+    "Date": "08-08-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 72,
+    "Inventory": 211
+  },
+  {
+    "Date": "08-09-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 69,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-10-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 70,
+    "Inventory": 91
+  },
+  {
+    "Date": "08-11-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 69,
+    "Inventory": 32
+  },
+  {
+    "Date": "08-12-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 84,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-13-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 82,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-14-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 70,
+    "Inventory": 273
+  },
+  {
+    "Date": "08-15-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 71,
+    "Inventory": 214
+  },
+  {
+    "Date": "08-16-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 72,
+    "Inventory": 155
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 69,
+    "Inventory": 98
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 68,
+    "Inventory": 39
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_17",
+    "Sale_Count": 71,
+    "Inventory": 15
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_18",
+    "Sale_Count": 79,
+    "Inventory": 289
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_18",
+    "Sale_Count": 84,
+    "Inventory": 210
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_18",
+    "Sale_Count": 70,
+    "Inventory": 161
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_18",
+    "Sale_Count": 63,
+    "Inventory": 104
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_18",
+    "Sale_Count": 61,
+    "Inventory": 44
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_18",
+    "Sale_Count": 66,
+    "Inventory": 16
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 80,
+    "Inventory": 287
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 85,
+    "Inventory": 208
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 71,
+    "Inventory": 159
+  },
+  {
+    "Date": "06-21-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 76,
+    "Inventory": 110
+  },
+  {
+    "Date": "06-22-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 73,
+    "Inventory": 61
+  },
+  {
+    "Date": "06-23-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 74,
+    "Inventory": 12
+  },
+  {
+    "Date": "06-24-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 86,
+    "Inventory": 400
+  },
+  {
+    "Date": "06-25-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 83,
+    "Inventory": 330
+  },
+  {
+    "Date": "06-26-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 69,
+    "Inventory": 271
+  },
+  {
+    "Date": "06-27-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 71,
+    "Inventory": 212
+  },
+  {
+    "Date": "06-28-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 70,
+    "Inventory": 153
+  },
+  {
+    "Date": "06-29-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 76,
+    "Inventory": 94
+  },
+  {
+    "Date": "06-30-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 77,
+    "Inventory": 35
+  },
+  {
+    "Date": "07-01-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 87,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-02-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 84,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-03-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 71,
+    "Inventory": 271
+  },
+  {
+    "Date": "07-04-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 88,
+    "Inventory": 200
+  },
+  {
+    "Date": "07-05-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 69,
+    "Inventory": 141
+  },
+  {
+    "Date": "07-06-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 68,
+    "Inventory": 82
+  },
+  {
+    "Date": "07-07-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 70,
+    "Inventory": 27
+  },
+  {
+    "Date": "07-08-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 84,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-09-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 83,
+    "Inventory": 332
+  },
+  {
+    "Date": "07-10-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 71,
+    "Inventory": 275
+  },
+  {
+    "Date": "07-11-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 74,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-12-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 69,
+    "Inventory": 155
+  },
+  {
+    "Date": "07-13-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 72,
+    "Inventory": 96
+  },
+  {
+    "Date": "07-14-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 74,
+    "Inventory": 37
+  },
+  {
+    "Date": "07-15-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 87,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-16-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 84,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-17-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 69,
+    "Inventory": 273
+  },
+  {
+    "Date": "07-18-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 74,
+    "Inventory": 211
+  },
+  {
+    "Date": "07-19-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 75,
+    "Inventory": 148
+  },
+  {
+    "Date": "07-20-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 70,
+    "Inventory": 89
+  },
+  {
+    "Date": "07-21-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 73,
+    "Inventory": 38
+  },
+  {
+    "Date": "07-22-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 84,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-23-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 86,
+    "Inventory": 331
+  },
+  {
+    "Date": "07-24-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 69,
+    "Inventory": 274
+  },
+  {
+    "Date": "07-25-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 74,
+    "Inventory": 213
+  },
+  {
+    "Date": "07-26-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 75,
+    "Inventory": 151
+  },
+  {
+    "Date": "07-27-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 76,
+    "Inventory": 92
+  },
+  {
+    "Date": "07-28-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 71,
+    "Inventory": 35
+  },
+  {
+    "Date": "07-29-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 83,
+    "Inventory": 400
+  },
+  {
+    "Date": "07-30-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 84,
+    "Inventory": 330
+  },
+  {
+    "Date": "07-31-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 70,
+    "Inventory": 271
+  },
+  {
+    "Date": "08-01-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 74,
+    "Inventory": 212
+  },
+  {
+    "Date": "08-02-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 75,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-03-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 75,
+    "Inventory": 93
+  },
+  {
+    "Date": "08-04-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 72,
+    "Inventory": 34
+  },
+  {
+    "Date": "08-05-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 87,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-06-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 84,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-07-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 71,
+    "Inventory": 270
+  },
+  {
+    "Date": "08-08-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 74,
+    "Inventory": 211
+  },
+  {
+    "Date": "08-09-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 71,
+    "Inventory": 152
+  },
+  {
+    "Date": "08-10-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 72,
+    "Inventory": 91
+  },
+  {
+    "Date": "08-11-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 71,
+    "Inventory": 32
+  },
+  {
+    "Date": "08-12-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 86,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-13-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 84,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-14-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 72,
+    "Inventory": 273
+  },
+  {
+    "Date": "08-15-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 73,
+    "Inventory": 214
+  },
+  {
+    "Date": "08-16-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 74,
+    "Inventory": 155
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 71,
+    "Inventory": 98
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 70,
+    "Inventory": 39
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_19",
+    "Sale_Count": 73,
+    "Inventory": 17
+  },
+  {
+    "Date": "06-18-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 81,
+    "Inventory": 285
+  },
+  {
+    "Date": "06-19-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 86,
+    "Inventory": 206
+  },
+  {
+    "Date": "06-20-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 72,
+    "Inventory": 157
+  },
+  {
+    "Date": "08-17-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 64,
+    "Inventory": 105
+  },
+  {
+    "Date": "08-18-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 62,
+    "Inventory": 45
+  },
+  {
+    "Date": "08-19-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 67,
+    "Inventory": 18
+  },
+  {
+    "Date": "08-20-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 69,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-21-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 68,
+    "Inventory": 331
+  },
+  {
+    "Date": "08-22-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 55,
+    "Inventory": 272
+  },
+  {
+    "Date": "08-23-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 60,
+    "Inventory": 212
+  },
+  {
+    "Date": "08-24-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 59,
+    "Inventory": 153
+  },
+  {
+    "Date": "08-25-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 63,
+    "Inventory": 94
+  },
+  {
+    "Date": "08-26-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 65,
+    "Inventory": 35
+  },
+  {
+    "Date": "08-27-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 75,
+    "Inventory": 400
+  },
+  {
+    "Date": "08-28-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 74,
+    "Inventory": 330
+  },
+  {
+    "Date": "08-29-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 61,
+    "Inventory": 271
+  },
+  {
+    "Date": "08-30-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 68,
+    "Inventory": 212
+  },
+  {
+    "Date": "08-31-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 67,
+    "Inventory": 153
+  },
+  {
+    "Date": "09-01-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 70,
+    "Inventory": 94
+  },
+  {
+    "Date": "09-02-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 72,
+    "Inventory": 35
+  },
+  {
+    "Date": "09-03-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 80,
+    "Inventory": 400
+  },
+  {
+    "Date": "09-04-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 78,
+    "Inventory": 330
+  },
+  {
+    "Date": "09-05-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 65,
+    "Inventory": 271
+  },
+  {
+    "Date": "09-06-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 70,
+    "Inventory": 212
+  },
+  {
+    "Date": "09-07-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 69,
+    "Inventory": 153
+  },
+  {
+    "Date": "09-08-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 72,
+    "Inventory": 94
+  },
+  {
+    "Date": "09-09-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 74,
+    "Inventory": 35
+  },
+  {
+    "Date": "09-10-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 82,
+    "Inventory": 400
+  },
+  {
+    "Date": "09-11-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 80,
+    "Inventory": 330
+  },
+  {
+    "Date": "09-12-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 67,
+    "Inventory": 271
+  },
+  {
+    "Date": "09-13-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 72,
+    "Inventory": 212
+  },
+  {
+    "Date": "09-14-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 71,
+    "Inventory": 153
+  },
+  {
+    "Date": "09-15-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 74,
+    "Inventory": 94
+  },
+  {
+    "Date": "09-16-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 76,
+    "Inventory": 35
+  },
+  {
+    "Date": "09-17-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 84,
+    "Inventory": 400
+  },
+  {
+    "Date": "09-18-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 82,
+    "Inventory": 330
+  },
+  {
+    "Date": "09-19-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 69,
+    "Inventory": 271
+  },
+  {
+    "Date": "09-20-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 74,
+    "Inventory": 212
+  },
+  {
+    "Date": "09-21-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 73,
+    "Inventory": 153
+  },
+  {
+    "Date": "09-22-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 76,
+    "Inventory": 94
+  },
+  {
+    "Date": "09-23-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 78,
+    "Inventory": 35
+  },
+  {
+    "Date": "09-24-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 86,
+    "Inventory": 400
+  },
+  {
+    "Date": "09-25-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 84,
+    "Inventory": 330
+  },
+  {
+    "Date": "09-26-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 71,
+    "Inventory": 271
+  },
+  {
+    "Date": "09-27-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 76,
+    "Inventory": 212
+  },
+  {
+    "Date": "09-28-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 75,
+    "Inventory": 153
+  },
+  {
+    "Date": "09-29-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 78,
+    "Inventory": 94
+  },
+  {
+    "Date": "09-30-2023",
+    "Product_ID": "Product_20",
+    "Sale_Count": 80,
+    "Inventory": 35
+  }
+]

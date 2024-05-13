@@ -1,0 +1,107 @@
+.nav-top {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem;
+  background-color: #3811a3;
+  min-height: 2.8rem;
+  /* border-radius: 0 0 0.8rem 0.8rem; */
+}
+
+.nav-top i {
+  font-size: 1.5rem;
+}
+
+.verticle-bar {
+  color: rgb(178, 178, 178);
+}
+
+.nav-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  color: rgb(183, 183, 183);
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+
+.nav-list:hover {
+  color: white;
+  cursor: pointer;
+  transition-duration: 500ms;
+}
+
+.nav-items:hover {
+  color: white;
+  cursor: pointer;
+  transition-duration: 500ms;
+}
+
+.nav-search-top {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  min-height: 4rem;
+  max-height: max-content;
+  gap: 2rem;
+  font-weight: bold;
+  background-color: black;
+  color: #ffffff;
+}
+
+.nav-search-top input {
+  width: 100%;
+  height: 100%;
+  border: none;
+  background-color: black;
+  color: #ffffff;
+  font-size: 1rem;
+  outline: none;
+  border-bottom: 1px solid white;
+  padding-bottom: 0.2rem;
+}
+
+.input-search {
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+  width: 45%;
+}
+
+.fa-magnifying-glass {
+  color: #9f9f9f;
+}
+.fa-buysellads {
+  color: white;
+  font-size: 2rem;
+}
+
+.fa-user-shield,
+.fa-gear {
+  color: #fff;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.active {
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+.rotated {
+  transform: rotate(45deg);
+  transition: 500ms;
+}
+
+.reverse {
+  transform: rotate(-45deg);
+  transition: 500ms;
+}
