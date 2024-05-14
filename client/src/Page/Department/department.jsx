@@ -4,13 +4,17 @@ import "../Employee/employee.css";
 import "./department.css";
 import MarketingDepartment from "../../component/Department/MarketingDepartment";
 
-const department = () => {
+const department = ({ user }) => {
   const [loading, setLoading] = useState(true);
+
+  const handleDepartmentClick = async (departmentName) => {
+    console.log(departmentName);
+  };
 
   useEffect(() => {
     const timer = setTimeout(() => {
       setLoading(false);
-    }, 1);
+    }, 1000);
 
     return () => clearTimeout(timer);
   }, []);
@@ -28,7 +32,10 @@ const department = () => {
     <div className="home-top">
       <div className="home-head">Departments</div>
       <div className="sales-dpartment">
-        <MarketingDepartment />
+        <MarketingDepartment
+          user={user}
+          onDepartmentClick={handleDepartmentClick}
+        />
       </div>
       <div className="sales-dpartment">Finance</div>
       <div className="sales-dpartment">Logistics</div>

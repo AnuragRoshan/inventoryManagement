@@ -5,11 +5,12 @@ const morgan = require("morgan");
 const app = express();
 const dotenv = require("dotenv")
 const routes = require("./api/routes/index")
+const cookieParser = require('cookie-parser');
 // const router = require("express").Router();
-dotenv.config();
-
-
 app.use(morgan("dev"));
+
+
+dotenv.config();
 
 
 //database connection
@@ -17,14 +18,16 @@ require("./db_connection");
 
 
 // Middleware
+app.use(express.json());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(
     cors({
-        origin: "http://localhost:5173,*", // <-- location of the react app were connecting to
+        origin: "http://localhost:5173", // <-- location of the react app were connecting to
         credentials: true,
     })
 );
+app.use(cookieParser())
 
 
 //Middleware End

@@ -69,6 +69,6 @@ const userInteractionSchema = new Schema({
     }
 });
 
-const UserInteraction = mongoose.model('UserInteraction', userInteractionSchema);
+const UserInteraction = mongoose.model('Market', userInteractionSchema);
 
 module.exports = UserInteraction;

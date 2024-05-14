@@ -2,19 +2,19 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const salesSchema = new Schema({
-    date: {
+    Date: {
         type: Date,
         required: true
     },
-    product_id: {
+    Product_ID: {
         type: String,
         required: true
     },
-    sale_count: {
+    Sale_Count: {
         type: Number,
         required: true
     },
-    inventory: {
+    Inventory: {
         type: Number,
         required: true
     }

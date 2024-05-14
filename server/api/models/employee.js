@@ -6,7 +6,7 @@ const employeeSchema = mongoose.Schema(
         employeeID: { type: String, required: true, unique: true },
         firstName: { type: String, required: true },
         lastName: { type: String, required: true },
-        emailAddress: {
+        username: {
             type: String,
             required: true,
             unique: true,
@@ -17,6 +17,7 @@ const employeeSchema = mongoose.Schema(
         department: { type: String, required: true },
         contactNumber: { type: String, required: true },
         address: { type: String },
+        salary: { type: Number, required: true },
         joiningDate: { type: Date, required: true }
     },
     { timestamps: true }

@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 
-const NavItems = () => {
+const NavItems = ({ user }) => {
   const [activeItem, setActiveItem] = useState("Dashboard");
   const location = useLocation();
 
   useEffect(() => {
     // Extract the first segment of the pathname
     const pathSegments = location.pathname.split("/");
-    const firstSegment = pathSegments[1] || "Dashboard";
+    const firstSegment = pathSegments[1] || "/";
     setActiveItem(firstSegment);
   }, [location]);
 
@@ -19,7 +19,7 @@ const NavItems = () => {
   return (
     <div className="nav-top">
       <Link
-        to="/dashboard"
+        to="/"
         className={`nav-items ${activeItem === "dashboard" ? "active" : ""}`}
         onClick={() => handleItemClick("dashboard")}
       >
@@ -40,15 +40,6 @@ const NavItems = () => {
         <div className="nav-list">Employee</div>
       </Link>
       <div className="verticle-bar">|</div>
-      {/* <Link
-        to="/sales"
-        className={`nav-items ${activeItem === "sales" ? "active" : ""}`}
-        onClick={() => handleItemClick("sales")}
-      >
-        <i className="fa-solid fa-chart-column"></i>
-        <div className="nav-list">Sales</div>
-      </Link> */}
-      {/* <div className="verticle-bar">|</div> */}
       <Link
         to="/inventory"
         className={`nav-items ${activeItem === "inventory" ? "active" : ""}`}
@@ -65,6 +56,15 @@ const NavItems = () => {
       >
         <i className="fa-solid fa-users-viewfinder"></i>
         <div className="nav-list">Departments</div>
+      </Link>
+      <div className="verticle-bar">|</div>
+      <Link
+        to="/sales"
+        className={`nav-items ${activeItem === "history" ? "active" : ""}`}
+        onClick={() => handleItemClick("history")}
+      >
+        <i class="fa-solid fa-earth-asia"></i>
+        <div className="nav-list">History</div>
       </Link>
       <div className="verticle-bar">|</div>
       <Link

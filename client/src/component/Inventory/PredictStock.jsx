@@ -15,21 +15,27 @@ const PredictStock = () => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const response = await axios.get("/products");
-        setProductOptions(response.data.products);
+        const response = await axios.post(
+          "http://localhost:5000/products/list"
+        );
+        console.log("Products:", response.data);
+        setProductOptions(response.data);
       } catch (error) {
         console.error("Error fetching products:", error);
       }
     };
+
     fetchProducts();
   }, []);
 
   const handleProductChange = (e) => {
     setSelectedProduct(e.target.value);
+    console.log(selectedProduct);
   };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    console.log(selectedProduct, startDate, endDate);
     setLoading(true);
     try {
       const response = await axios.post("/predict-inventory", {
@@ -44,29 +50,6 @@ const PredictStock = () => {
     }
     setLoading(false);
   };
-
-  const product = [
-    {
-      productId: "ProductId_1",
-      productName: "Product 1",
-    },
-    {
-      productId: "ProductId_2",
-      productName: "Product 2",
-    },
-    {
-      productId: "ProductId_3",
-      productName: "Product 3",
-    },
-    {
-      productId: "ProductId_4",
-      productName: "Product 4",
-    },
-    {
-      productId: "ProductId_5",
-      productName: "Product 5",
-    },
-  ];
 
   return (
     <div className="inventory-prediction-container">
@@ -84,9 +67,9 @@ const PredictStock = () => {
                 required
               >
                 <option value="">Select Product</option>
-                {product.map((product) => (
-                  <option key={product.productId} value={product.productId}>
-                    {product.productName}
+                {productOptions.map((product) => (
+                  <option key={product.product_id} value={product.product_id}>
+                    {product.product_name.slice(0, 22)}
                   </option>
                 ))}
               </select>

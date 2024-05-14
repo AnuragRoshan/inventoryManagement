@@ -3,11 +3,19 @@ import "./navbar.css";
 import NavItems from "./navItems";
 import NavSearch from "./navsearch";
 
-const navbar = () => {
+const navbar = ({ user }) => {
   return (
     <div>
-      <NavSearch />
-      <NavItems />
+      {user ? (
+        <>
+          <NavSearch user={user} />
+          <NavItems />
+        </>
+      ) : (
+        <>
+          <NavSearch user={user} />
+        </>
+      )}
     </div>
   );
 };

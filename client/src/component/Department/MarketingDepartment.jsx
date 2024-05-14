@@ -1,6 +1,14 @@
 import React from "react";
 
-const MarketingDepartment = () => {
+const MarketingDepartment = ({ user, onDepartmentClick }) => {
+  const handleClick = () => {
+    onDepartmentClick({
+      recomEmpName: `${user.firstName} ${user.lastName}`,
+      recomEmpDepart: user.department,
+      recomDepart: topCategoryForMonth,
+      recomName: "Advertisement",
+    });
+  };
   // Get current date
   const currentDate = new Date();
   // Get current month (0-indexed)
@@ -82,7 +90,7 @@ const MarketingDepartment = () => {
       </div>
       <div className="send-advertisement">
         <div>By</div>
-        <button className="send-advertisement-button">
+        <button onClick={handleClick} className="send-advertisement-button">
           Sending Advertisement
         </button>
         <div>

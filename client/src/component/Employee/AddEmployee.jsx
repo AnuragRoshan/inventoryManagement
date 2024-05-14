@@ -1,3 +1,4 @@
+import axios from "axios";
 import React, { useState, useEffect } from "react";
 
 const AddEmployee = () => {
@@ -24,12 +25,16 @@ const AddEmployee = () => {
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData({ ...formData, [name]: value });
+    console.log(formData);
   };
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    // You can handle form submission here, such as sending the data to the server
-    console.log(formData);
+  const handleSubmit = async () => {
+    await axios
+      .post("http://localhost:5000/addEmp", formData, { withCredentials: true })
+      .then((res) => {
+        console.log(res);
+        window.location.href("/employee");
+      });
   };
 
   if (loading) {
@@ -42,10 +47,10 @@ const AddEmployee = () => {
   }
 
   return (
-    <>
+    <div className="addEmp-head">
       <div className="form-head">Add Employee</div>
       <div className="emp-form-top">
-        <form onSubmit={handleSubmit}>
+        <form>
           <div>
             <label htmlFor="firstName">First Name:</label>
             <input
@@ -149,10 +154,10 @@ const AddEmployee = () => {
               onChange={handleChange}
             />
           </div>
-          <button type="submit">Add Employee</button>
+          <button onClick={handleSubmit}>Add Employee</button>
         </form>
       </div>
-    </>
+    </div>
   );
 };
 
