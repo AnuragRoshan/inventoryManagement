@@ -7,8 +7,8 @@ const PredictStock = () => {
   const [startDate, setStartDate] = useState("");
   const [endDate, setEndDate] = useState("");
   const [predictionResult, setPredictionResult] = useState(null);
-  const [totalInventorySum, setTotalInventorySum] = useState(null);
   const [loading, setLoading] = useState(false);
+  const [selectedProductName, setSelectedProductName] = useState("");
 
   // Fetch product options from the backend on component mount
 
@@ -30,25 +30,40 @@ const PredictStock = () => {
 
   const handleProductChange = (e) => {
     setSelectedProduct(e.target.value);
-    console.log(selectedProduct);
   };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    console.log(selectedProduct, startDate, endDate);
+    const product_name = productOptions.find(
+      (x) => x.product_id === selectedProduct
+    ).product_name;
+    setSelectedProductName(product_name);
+    let numericPart = selectedProduct.match(/\d+/);
+    console.log("Product:", numericPart[0]);
     setLoading(true);
-    try {
-      const response = await axios.post("/predict-inventory", {
-        product_id: selectedProduct,
-        start_date: startDate,
-        end_date: endDate,
-      });
-      setPredictionResult(response.data.predictions);
-      setTotalInventorySum(response.data.total_inventory_sum);
-    } catch (error) {
-      console.error("Error predicting inventory:", error);
-    }
-    setLoading(false);
+    setTimeout(async () => {
+      try {
+        const response = await axios.post(
+          "http://localhost:5000/stock/predict",
+          {
+            product: numericPart,
+            start: startDate,
+            end: endDate,
+          }
+        );
+        // setAfterLoadProduct(
+        //   productOptions.find(
+        //     (x) => x.product_id === "Product_)" + numericPart[0]
+        //   ).product_name
+        // );
+        setPredictionResult(response.data.total_sum);
+      } catch (error) {
+        console.error("Error predicting inventory:", error);
+      }
+
+      // Set loading to false after 3 seconds
+      setLoading(false);
+    }, 5000);
   };
 
   return (
@@ -107,14 +122,21 @@ const PredictStock = () => {
           />
         </div>
       </div>
-      {predictionResult && (
-        <div className="prediction-result">
-          <p>
-            You have to stock{" "}
-            <span className="sales-cost"> {predictionResult}</span> units of{" "}
-            <span style={{ fontWeight: "bold" }}> {selectedProduct}</span>
-          </p>
-        </div>
+      {loading ? (
+        <>
+          <div className="loader-pred"></div>
+          <div>Analyzing Inventory</div>
+        </>
+      ) : (
+        predictionResult && (
+          <div className="prediction-result">
+            <p>
+              You have to stock{" "}
+              <span className="sales-cost">{predictionResult}</span> units of{" "}
+              <span style={{ fontWeight: "bold" }}>{selectedProductName}</span>
+            </p>
+          </div>
+        )
       )}
     </div>
   );

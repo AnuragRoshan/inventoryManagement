@@ -17,11 +17,13 @@ router.post("/sales/last", salesController.getSales);
 router.post("/orders/last24h", salesController.get24hOrders);
 router.post("/salesUpdate", salesController.update);
 router.post("/sales/perMonths", salesController.perMonthSales);
+router.post("/stock/predict", salesController.getPredictStock);
 router.post("/inventory/detail", inventoryController.inventoryDetails);
 router.post("/employee/list", employeeController.getEmployeeList);
 router.post("/employee/data", employeeController.getEmployeeData);
 router.post("/products/list", inventoryController.getAllProducts);
 router.post("/saveRecom", employeeController.saveRecom);
+router.post("/getHistory", employeeController.getHistory);
 // router.post("/orders/last", inventoryController.inventoryDetails);
 
 

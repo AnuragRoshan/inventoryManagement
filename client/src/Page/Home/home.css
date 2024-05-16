@@ -144,7 +144,6 @@
   text-align: center;
   margin-block-start: 1rem;
   padding: 1rem;
-  border-right: 1px solid grey;
 }
 
 .sales > .sales-subhead {
@@ -157,6 +156,11 @@
   flex-wrap: wrap;
   gap: 1rem;
 }
+
+.total-sales > * {
+  flex: 1;
+}
+
 .sales-cost-order {
   font-size: 3.5rem;
   font-weight: bold;

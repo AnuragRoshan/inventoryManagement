@@ -14,6 +14,22 @@ import SupplierList from "../../component/Inventory/SupplierList";
 const inventory = () => {
   const [isLoading, setIsLoading] = useState(true);
 
+  const customMonths = [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+  ];
+  const customSales = [85, 93, 90, 102, 100, 78, 86, 93, 89, 93, 92, 103]; // Example sales data
+
   useEffect(() => {
     const randomTimeout = Math.floor(Math.random() * (5000 - 2000 + 1) + 2000); // Random number between 2000 and 5000
     const timer = setTimeout(() => {
@@ -49,7 +65,7 @@ const inventory = () => {
             <BuyerList />
           </div>
           <div className="sales-graph graph-big">
-            <Charts />
+            <Charts customMonths={customMonths} customSales={customSales} />{" "}
           </div>
           <div className="today-data">
             <StockList />

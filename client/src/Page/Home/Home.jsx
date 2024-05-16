@@ -20,6 +20,22 @@ const Home = () => {
     return () => clearTimeout(timer);
   }, []);
 
+  const customMonths = [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+  ];
+  const customSales = [85, 93, 90, 102, 100, 78, 86, 93, 89, 93, 92, 103]; // Example sales data
+
   if (isLoading) {
     return (
       <div className="load">
@@ -45,7 +61,7 @@ const Home = () => {
         <TodaySale />
       </div>
       <div className="sales-graph graph-big">
-        <Charts />
+        <Charts customMonths={customMonths} customSales={customSales} />{" "}
       </div>
       <div className="sales-graph graph-big">
         <BarChart />

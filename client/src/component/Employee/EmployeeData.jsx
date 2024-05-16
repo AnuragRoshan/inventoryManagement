@@ -20,10 +20,6 @@ const EmployeeData = () => {
           <div className="sales-subhead">Average Salary</div>
           <div className="sales-cost"> $38.7K</div>
         </div>
-        <div className="sales" style={{ border: "none" }}>
-          <div className="sales-subhead">Profit</div>
-          <div className="sales-cost"> $5.23K</div>
-        </div>
       </div>
     </div>
   );

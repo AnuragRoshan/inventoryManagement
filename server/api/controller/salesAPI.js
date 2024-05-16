@@ -1,6 +1,7 @@
 const salesSchema = require('../models/sales');
 const productSchema = require("../models/product");
 const marketingSchema = require("../models/userInteraction");
+const request = require("request")
 
 exports.update = async (req, res) => {
     try {
@@ -194,3 +195,20 @@ exports.perMonthSales = async (req, res) => {
         res.status(500).json({ error: 'Internal Server Error' });
     }
 }
+
+
+exports.getPredictStock = async (req, res, next) => {
+    // res.status(200).json("working")
+    const { product, start, end } = req.body;
+    // return res.status(200).json({ product, start, end });
+    request(`http://127.0.0.1:5000/predictStock?productId=${product}&start=${start}&end=${end}`, function (error, response, body) {
+        if (error) {
+            console.error('error:', error); // Print the error
+        }
+        console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
+        console.log('body:', body); // Print the data received
+        res.send(body); // Display the response on the website
+    });
+
+    // res.send(book);
+};

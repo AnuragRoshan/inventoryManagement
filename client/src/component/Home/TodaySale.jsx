@@ -10,7 +10,7 @@ const TodaySale = () => {
       <div className="total-sales">
         <div className="sales">
           <div className="sales-subhead">Sales</div>
-          <div className="sales-cost"> $250.45K</div>
+          <div className="sales-cost"> $10.45K</div>
         </div>
         <div className="sales">
           <div className="sales-subhead">Orders Recieved</div>
@@ -22,7 +22,7 @@ const TodaySale = () => {
         </div>
         <div className="sales" style={{ border: "none" }}>
           <div className="sales-subhead">Profit</div>
-          <div className="sales-cost"> $5.23K</div>
+          <div className="sales-cost"> $2.3k</div>
         </div>
       </div>
     </div>

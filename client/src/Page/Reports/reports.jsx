@@ -1,10 +1,13 @@
-import React from "react";
+import React, { useState } from "react";
 import { usePDF } from "react-to-pdf";
+import "./report.css";
+import ReportComponent from "../../component/Report/ReportComponent";
 
-const reports = () => {
+const Reports = () => {
+  const [loading, setLoading] = useState(false);
+  const [reportGenerated, setReportGenerated] = useState(false);
   const date = new Date();
-  //change to format 10-June-2021
-  // remove day and time
+
   const monthNames = [
     "January",
     "February",
@@ -27,12 +30,36 @@ const reports = () => {
   const { toPDF, targetRef } = usePDF({
     filename: `${formattedDate}InventoryReport.pdf`,
   });
+
+  const handleGenerateReport = () => {
+    setLoading(true);
+    setTimeout(() => {
+      setLoading(false);
+      setReportGenerated(true);
+    }, 5000);
+  };
+
   return (
-    <div>
-      <button onClick={() => toPDF()}>Download PDF</button>
-      <div ref={targetRef}>Content to be generated to PDF</div>
+    <div className="marketing-department-head" style={{ minHeight: "80vh" }}>
+      <div className="report-pdf">
+        {!reportGenerated ? (
+          <button onClick={handleGenerateReport} disabled={loading}>
+            {loading ? "Generating Report..." : "Generate Report"}
+          </button>
+        ) : (
+          <button onClick={() => toPDF()}>
+            <i className="fa-solid fa-download"></i>
+            Download Report
+          </button>
+        )}
+      </div>
+      {reportGenerated && (
+        <div ref={targetRef}>
+          <ReportComponent />
+        </div>
+      )}
     </div>
   );
 };
 
-export default reports;
+export default Reports;

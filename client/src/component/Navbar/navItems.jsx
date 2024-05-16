@@ -59,7 +59,7 @@ const NavItems = ({ user }) => {
       </Link>
       <div className="verticle-bar">|</div>
       <Link
-        to="/sales"
+        to="/history"
         className={`nav-items ${activeItem === "history" ? "active" : ""}`}
         onClick={() => handleItemClick("history")}
       >

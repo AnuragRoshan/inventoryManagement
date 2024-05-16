@@ -1,5 +1,5 @@
 import React from "react";
-import Charts from "../../assets/charts/lineChart.jsx";
+import TodayOrderChart from "../../Page/Home/todayOrderChart";
 
 const Orders = () => {
   return (
@@ -40,7 +40,7 @@ const Orders = () => {
         </span>
       </div>
       <div className="tiny-graph">
-        <Charts />
+        <TodayOrderChart />
       </div>
     </div>
   );

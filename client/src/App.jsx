@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Navbar from "./component/Navbar/navbar";
 import Home from "./Page/Home/Home";
 import Employee from "./Page/Employee/employee";
-import Sales from "./Page/Sales/sales";
+import History from "./Page/History/history";
 import Reports from "./Page/Reports/reports";
 import Department from "./Page/Department/department";
 import Inventory from "./Page/Inventory/inventory";
@@ -47,7 +47,6 @@ function App() {
             path="/employee/addEmployee"
             element={user ? <AddEmployee /> : <Login />}
           />
-          <Route exact path="/sales" element={user ? <Sales /> : <Login />} />
           <Route
             exact
             path="/reports"
@@ -62,6 +61,11 @@ function App() {
             exact
             path="/inventory"
             element={user ? <Inventory /> : <Login />}
+          />
+          <Route
+            exact
+            path="/history"
+            element={user ? <History /> : <Login />}
           />
         </Routes>
       </Router>

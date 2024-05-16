@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from "react";
 import "../Home/home.css";
 import "./employee.css";
-import Charts from "../../assets/charts/lineChart";
+import EmployeeLineChart from "./employeeLineChart";
 import BarChart from "../../assets/charts/barChart";
 import EmployeeData from "../../component/Employee/EmployeeData";
 import AddButton from "../../component/Employee/AddButton";
 import TodayEmployee from "../../component/Employee/TodayEmployee";
 import EmployeeList from "../../component/Employee/EmployeeList";
+import EmployeeDepart from "./employeeDepartmentChart";
 
 const Employee = () => {
   const [loading, setLoading] = useState(true);
@@ -42,13 +43,13 @@ const Employee = () => {
         <EmployeeData />
       </div>
       <div className="sales-graph graph-big">
-        <Charts />
+        <EmployeeLineChart />
       </div>
       <div className="today-data">
         <TodayEmployee />
       </div>
       <div className="sales-graph graph-big">
-        <BarChart />
+        <EmployeeDepart />
       </div>
     </div>
   );

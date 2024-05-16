@@ -20,10 +20,6 @@ const TodayEmployee = () => {
           <div className="sales-subhead">Employee Absent</div>
           <div className="sales-cost"> 3</div>
         </div>
-        <div className="sales" style={{ border: "none" }}>
-          <div className="sales-subhead">Profit</div>
-          <div className="sales-cost"> $5.23K</div>
-        </div>
       </div>
     </div>
   );

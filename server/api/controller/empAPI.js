@@ -109,8 +109,15 @@ exports.createEmployee = async (req, res) => {
 
 exports.getEmployeeList = async (req, res) => {
 
-    const data = await employeeSchema.find();
-    res.send(data);
+    try {
+        const data = await employeeSchema.find();
+        res.status(200).send(data);
+    }
+    catch (err) {
+        return res.status(500).send({ message: err.message || "Some error occurred while retrieving the Employee." });
+    }
+    // const data = await employeeSchema.find();
+    // return res.status(200).send(data);
 };
 
 exports.getEmployeeData = async (req, res) => {
@@ -161,8 +168,8 @@ exports.getEmployeeData = async (req, res) => {
 };
 
 exports.saveRecom = async (req, res) => {
-    const { recomName, recomDepart, recomEmpName, recomEmpDepart } = req.body;
-
+    const { recomName, recomDepart, recomEmpName, recomEmpDepart } = req.body.departmentName;
+    console.log(req.body)
     if (!recomName || !recomDepart || !recomEmpName || !recomEmpDepart) {
         return res.status(400).json({ error: 'All fields are required' });
     }
@@ -176,10 +183,16 @@ exports.saveRecom = async (req, res) => {
 
     try {
         const savedHistory = await newHistory.save();
-        res.status(201).json(savedHistory);
+        res.status(200).json(savedHistory);
     } catch (error) {
         res.status(500).json({ error: 'Failed to save history record' });
     }
 
 
+}
+
+
+exports.getHistory = async (req, res) => {
+    const data = await History.find();
+    res.status(200).json(data);
 }
